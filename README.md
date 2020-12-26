@@ -1,4 +1,4 @@
-# Purpose of the repo is understand spring reactor.
+# Purpose of the repo is to understand spring reactor.
 
 ##### What is Reactive Programming.
 
